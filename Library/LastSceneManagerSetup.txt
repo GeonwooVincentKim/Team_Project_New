@@ -1,0 +1,9 @@
+sceneSetups:
+<<<<<<< HEAD
+- path: Assets/Scenes/Ingame/Scene01.unity
+=======
+- path: Assets/stage/Scenes/Intro.unity
+>>>>>>> df5c925... Clean push
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
